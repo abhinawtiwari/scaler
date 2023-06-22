@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day-136/class-client-display-method----method-overloading-and-overriding-base/pom.xml" />
+        <option value="$PROJECT_DIR$/day-136/create-a-class-point-and-threedpoint---method-overloading-and-overriding-base/pom.xml" />
+        <option value="$PROJECT_DIR$/lld-1&amp;2/create-bankaccount-class-base/pom.xml" />
+        <option value="$PROJECT_DIR$/lld-1&amp;2/create-a-basic-class--student--base/pom.xml" />
+        <option value="$PROJECT_DIR$/lld-1&amp;2/class-constructors---1--basic-oops--base/pom.xml" />
+        <option value="$PROJECT_DIR$/lld-1&amp;2/create-related-classes-2----point-and-circle--base/pom.xml" />
+        <option value="$PROJECT_DIR$/lld-1&amp;2/create-related-classes-1----point-and-rectangle--base/pom.xml" />
+        <option value="$PROJECT_DIR$/lld-1&amp;2/create-a-node-class---oops-in-java--constructors-and-static--base/pom.xml" />
+        <option value="$PROJECT_DIR$/lld-1&amp;2/create--a-math-class---oops-in-java--constructors-and-static--base/pom.xml" />
+        <option value="$PROJECT_DIR$/lld-1&amp;2/create-a-student-class--oops-in-java--constructors-and-static--base/pom.xml" />
+        <option value="$PROJECT_DIR$/lld-1&amp;2/create-a-class-point--rectangle----oops-in-java--constructors-and-static--base/pom.xml" />
+        <option value="$PROJECT_DIR$/inheritance-via-interfaces-base/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

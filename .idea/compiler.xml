@@ -10,7 +10,6 @@
         <module name="Lecture2_Asgn3" />
         <module name="Lecture2_Asgn2" />
         <module name="Lecture2_Asgn1" />
-        <module name="CodeForUser" />
         <module name="Lecture1_Asgn1 (2)" />
         <module name="Lecture1_Asgn2" />
         <module name="Lecture1_Asgn4" />
@@ -21,6 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="CodeForUser" target="11" />
       <module name="Lecture1_Asgn1" target="11" />
     </bytecodeTargetLevel>
   </component>
